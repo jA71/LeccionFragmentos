@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- IMG -->
+
+    <dimen name="margin_top_logo">150dp</dimen>
+    <dimen name="margin_top_logo_data">25dp</dimen>
+
+
+    <!-- INPUTS -->
+
+    <dimen name="top_input">115dp</dimen>
+    <dimen name="margin_end">24dp</dimen>
+    <dimen name="margin_start">24dp</dimen>
+    <dimen name="input_padding">15dp</dimen>
+    <dimen name="margin_bottom">25dp</dimen>
+    <dimen name="margin_top_user">450dp</dimen>
+    <dimen name="margin_top_password">525dp</dimen>
+
+
+    <!-- TEXTS -->
+
+    <dimen name="margin_top_msg">370dp</dimen>
+    <dimen name="text_size_msg">30dp</dimen>
+    <dimen name="text_size">18dp</dimen>
+
+    <!-- BTN -->
+
+    <dimen name="size_for_btn">20dp</dimen>
+    <dimen name="btn_radius_cornes">10dp</dimen>
+    <dimen name="margin_start_btn">24dp</dimen>
+    <dimen name="margin_end_btn">24dp</dimen>
+    <dimen name="margin_top_btn">100dp</dimen>
+    <dimen name="long_btn">130dp</dimen>
+    <dimen name="top_to_bottom_btn">650dp</dimen>
+
+    <!-- FRAGMENT -->
+    <dimen name="margin_frag">10dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+</resources>
